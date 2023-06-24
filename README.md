@@ -53,6 +53,6 @@ To set up the VPN web application locally, follow these steps:
 3. Build the project to resolve dependencies.
 4. Configure the application properties with your database connection details.
 5. Run the application.
-6. Access the API endpoints using a tool like **Postman** or **Swagger-UI**.
+6. Access the API endpoints using a tool like **Postman** or a web browser.
 ## Contributions
 Contributions to the VPN web application are welcome! If you encounter any issues or have suggestions for improvement, please create a new issue or submit a pull request.
