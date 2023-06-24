@@ -1,8 +1,6 @@
 // Note: Do not write @Enumerated annotation above CountryName in this model.
 package com.driver.model;
 
-import org.springframework.data.annotation.Id;
-
 import javax.persistence.*;
 
 @Entity
